@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/SkyluxMovies-vlatest-d4922a?style=for-the-badge&logo=film&logoColor=white" alt="SkyluxMovies v1.0.0" />
+<img src="https://img.shields.io/badge/SkyluxMovies-latest-d4922a?style=for-the-badge&logo=film&logoColor=white" alt="SkyluxMovies v1.0.0" />
 
 # 🎬 SkyluxMovies
 
