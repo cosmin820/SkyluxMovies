@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/SkyluxMovies-latest-d4922a?style=for-the-badge&logo=film&logoColor=white" alt="SkyluxMovies v1.0.0" />
+<img src="https://img.shields.io/badge/SkyluxMovies-v1.0.0-d4922a?style=for-the-badge&logo=film&logoColor=white" alt="SkyluxMovies v1.0.0" />
 
 # 🎬 SkyluxMovies
 
@@ -11,6 +11,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/Advay254/SkyluxMovies/pulls)
 [![Deploy on Render](https://img.shields.io/badge/Deploy%20on-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](https://render.com)
+
+<br/>
+
+<a href="https://www.buymeacoffee.com/advay254" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
 
 <br/>
 
@@ -269,5 +273,9 @@ MIT © 2026 Advay — free to use, modify, and distribute.
 <div align="center">
 
 **If SkyluxMovies saved you time, drop a ⭐ — it helps others find the project.**
+
+<br/>
+
+<a href="https://www.buymeacoffee.com/advay254" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 </div>
